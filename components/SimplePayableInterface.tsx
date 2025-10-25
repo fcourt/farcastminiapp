@@ -4,7 +4,7 @@ import { parseEther, formatEther } from 'viem';
 import { NetworkSwitcher } from './NetworkSwitcher';
 
 // Remplace par l'adresse de ton contrat déployé sur Base
-const CONTRACT_ADDRESS = '0xYOUR_CONTRACT_ADDRESS_HERE' as const;
+const CONTRACT_ADDRESS = '0xaE2Ad77Ba2f08AdBf2591b5d06500fafbD42300B' as const;
 
 // ABI de ton contrat SimplePayable
 const SIMPLE_PAYABLE_ABI = [
