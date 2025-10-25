@@ -11,7 +11,7 @@ export async function GET() {
   },
     frame: {
       version: "1",
-      name: "Farcaster-MiniApp by fcourt",
+      name: "MiniApp by fcourt",
       iconUrl: `${APP_URL}/images/icon.png`,
       homeUrl: `${APP_URL}`,
       imageUrl: `${APP_URL}/images/feed.png`,
