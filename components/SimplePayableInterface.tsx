@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useAccount, useReadContract, useWriteContract, useWaitForTransactionReceipt } from 'wagmi';
 import { parseEther, formatEther } from 'viem';
-import { NetworkSwitcher } from './NetworkSwitcher';
+//import { NetworkSwitcher } from './NetworkSwitcher';
 
 // Remplace par l'adresse de ton contrat déployé sur Base
 const CONTRACT_ADDRESS = '0xaE2Ad77Ba2f08AdBf2591b5d06500fafbD42300B' as const;
