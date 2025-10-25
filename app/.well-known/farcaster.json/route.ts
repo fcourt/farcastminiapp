@@ -6,8 +6,8 @@ export async function GET() {
   // TODO: Add your own account association
     accountAssociation: {
     "header": "eyJmaWQiOjM0NzU1MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDE3ZjRjRUI1YmU5OWQyN2Q4ZGFDNGMwYkI3NjM1Qzc5RTQ4MDU2Q2EifQ",
-    "payload": "eyJkb21haW4iOiJ2ZXJjZWwuYXBwIn0",
-    "signature": "TlBHI+VyyOLyrU4XKMqqmmnJS8CyxUj0LrYHbJbORYpNj8b2SwzsBen7QSzOv/yzUiXX1ePxMzgop8trFcrogRs="
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0LW1pbmlhcHAudmVyY2VsLmFwcCJ9",
+    "signature": "l/YT4Cc1S/NErqrageTULIGLjHVmTCN24UiN+gwP48lF12W0eL+1mX+ssujqDxk+HkmJAwOs0n4kCN6Mby3enhs="
   },
     frame: {
       version: "1",
